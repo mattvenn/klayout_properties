@@ -460,14 +460,14 @@
   <source>65/5@1</source>
  </properties>
  <properties>
-  <frame-color>#008000</frame-color>
-  <fill-color>#008000</fill-color>
+  <frame-color>#ff9d9d</frame-color>
+  <fill-color>#ff9d9d</fill-color>
   <frame-brightness>0</frame-brightness>
   <fill-brightness>0</fill-brightness>
-  <dither-pattern>I7</dither-pattern>
+  <dither-pattern>I2</dither-pattern>
   <line-style>C0</line-style>
   <valid>true</valid>
-  <visible>false</visible>
+  <visible>true</visible>
   <transparent>false</transparent>
   <width>1</width>
   <marked>false</marked>
@@ -481,10 +481,10 @@
   <fill-color>#808080</fill-color>
   <frame-brightness>0</frame-brightness>
   <fill-brightness>0</fill-brightness>
-  <dither-pattern>I9</dither-pattern>
+  <dither-pattern>I2</dither-pattern>
   <line-style>C0</line-style>
   <valid>true</valid>
-  <visible>false</visible>
+  <visible>true</visible>
   <transparent>false</transparent>
   <width>1</width>
   <marked>false</marked>
@@ -501,7 +501,7 @@
   <dither-pattern>I0</dither-pattern>
   <line-style>C0</line-style>
   <valid>true</valid>
-  <visible>true</visible>
+  <visible>false</visible>
   <transparent>false</transparent>
   <width>1</width>
   <marked>false</marked>
@@ -766,8 +766,8 @@
   <source>80/20@1</source>
  </properties>
  <properties>
-  <frame-color>#008050</frame-color>
-  <fill-color>#008050</fill-color>
+  <frame-color>#ffa080</frame-color>
+  <fill-color>#ffa080</fill-color>
   <frame-brightness>0</frame-brightness>
   <fill-brightness>0</fill-brightness>
   <dither-pattern>I0</dither-pattern>
@@ -851,11 +851,11 @@
   <source>95/20@1</source>
  </properties>
  <properties>
-  <frame-color>#ff9d9d</frame-color>
-  <fill-color>#ff9d9d</fill-color>
-  <frame-brightness>16</frame-brightness>
-  <fill-brightness>16</fill-brightness>
-  <dither-pattern>I0</dither-pattern>
+  <frame-color>#000000</frame-color>
+  <fill-color>#c0c0c0</fill-color>
+  <frame-brightness>0</frame-brightness>
+  <fill-brightness>0</fill-brightness>
+  <dither-pattern>I2</dither-pattern>
   <line-style>C0</line-style>
   <valid>true</valid>
   <visible>false</visible>
@@ -872,7 +872,7 @@
   <fill-color>#bf4026</fill-color>
   <frame-brightness>0</frame-brightness>
   <fill-brightness>0</fill-brightness>
-  <dither-pattern>I0</dither-pattern>
+  <dither-pattern>I2</dither-pattern>
   <line-style>C0</line-style>
   <valid>true</valid>
   <visible>false</visible>
@@ -1089,8 +1089,8 @@
   <source>67/41@1</source>
  </properties>
  <properties>
-  <frame-color>#004080</frame-color>
-  <fill-color>#004080</fill-color>
+  <frame-color>#8086ff</frame-color>
+  <fill-color>#8086ff</fill-color>
   <frame-brightness>0</frame-brightness>
   <fill-brightness>0</fill-brightness>
   <dither-pattern>I0</dither-pattern>
@@ -1399,23 +1399,6 @@
   <fill-color>#5e00e6</fill-color>
   <frame-brightness>0</frame-brightness>
   <fill-brightness>0</fill-brightness>
-  <dither-pattern>C1</dither-pattern>
-  <line-style>C0</line-style>
-  <valid>true</valid>
-  <visible>false</visible>
-  <transparent>false</transparent>
-  <width>1</width>
-  <marked>false</marked>
-  <xfill>false</xfill>
-  <animation>0</animation>
-  <name>via.drawing - 68/44</name>
-  <source>68/44@1</source>
- </properties>
- <properties>
-  <frame-color>#5e00e6</frame-color>
-  <fill-color>#5e00e6</fill-color>
-  <frame-brightness>0</frame-brightness>
-  <fill-brightness>0</fill-brightness>
   <dither-pattern>C0</dither-pattern>
   <line-style>C0</line-style>
   <valid>true</valid>
@@ -1461,23 +1444,6 @@
   <animation>0</animation>
   <name>via.pin - 68/58</name>
   <source>68/58@1</source>
- </properties>
- <properties>
-  <frame-color>#0080ff</frame-color>
-  <fill-color>#0080ff</fill-color>
-  <frame-brightness>0</frame-brightness>
-  <fill-brightness>0</fill-brightness>
-  <dither-pattern>I0</dither-pattern>
-  <line-style>C0</line-style>
-  <valid>true</valid>
-  <visible>true</visible>
-  <transparent>false</transparent>
-  <width>1</width>
-  <marked>false</marked>
-  <xfill>false</xfill>
-  <animation>0</animation>
-  <name>met2.drawing - 69/20</name>
-  <source>69/20@1</source>
  </properties>
  <properties>
   <frame-color>#ff00ff</frame-color>
@@ -1769,11 +1735,11 @@
   <source>69/39@1</source>
  </properties>
  <properties>
-  <frame-color>#c0c0c0</frame-color>
-  <fill-color>#c0c0c0</fill-color>
+  <frame-color>#800057</frame-color>
+  <fill-color>#800000</fill-color>
   <frame-brightness>0</frame-brightness>
   <fill-brightness>0</fill-brightness>
-  <dither-pattern>I1</dither-pattern>
+  <dither-pattern>I0</dither-pattern>
   <line-style>C0</line-style>
   <valid>true</valid>
   <visible>false</visible>
@@ -6053,14 +6019,14 @@
   <source>81/23@1</source>
  </properties>
  <properties>
-  <frame-color>#ff00ff</frame-color>
-  <fill-color>#ff00ff</fill-color>
+  <frame-color>#606060</frame-color>
+  <fill-color>#606060</fill-color>
   <frame-brightness>0</frame-brightness>
   <fill-brightness>0</fill-brightness>
   <dither-pattern>C0</dither-pattern>
   <line-style>C0</line-style>
   <valid>true</valid>
-  <visible>false</visible>
+  <visible>true</visible>
   <transparent>false</transparent>
   <width>3</width>
   <marked>false</marked>
@@ -6784,6 +6750,23 @@
   <source>72/92@1</source>
  </properties>
  <properties>
+  <frame-color>#80a8ff</frame-color>
+  <fill-color>#80a8ff</fill-color>
+  <frame-brightness>0</frame-brightness>
+  <fill-brightness>0</fill-brightness>
+  <dither-pattern>I0</dither-pattern>
+  <line-style>C0</line-style>
+  <valid>true</valid>
+  <visible>true</visible>
+  <transparent>false</transparent>
+  <width>1</width>
+  <marked>false</marked>
+  <xfill>false</xfill>
+  <animation>0</animation>
+  <name>met2.drawing - 69/20</name>
+  <source>69/20@1</source>
+ </properties>
+ <properties>
   <frame-color>#fa8072</frame-color>
   <fill-color>#fa8072</fill-color>
   <frame-brightness>0</frame-brightness>
@@ -6986,6 +6969,23 @@
   <animation>0</animation>
   <name>blanking.drawing - 124/40</name>
   <source>124/40@1</source>
+ </properties>
+ <properties>
+  <frame-color>#c080ff</frame-color>
+  <fill-color>#c080ff</fill-color>
+  <frame-brightness>0</frame-brightness>
+  <fill-brightness>0</fill-brightness>
+  <dither-pattern>I0</dither-pattern>
+  <line-style>C0</line-style>
+  <valid>true</valid>
+  <visible>true</visible>
+  <transparent>false</transparent>
+  <width>1</width>
+  <marked>false</marked>
+  <xfill>false</xfill>
+  <animation>0</animation>
+  <name>via.drawing - 68/44</name>
+  <source>68/44@1</source>
  </properties>
  <name/>
  <custom-dither-pattern>
